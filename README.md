@@ -1,2 +1,2 @@
 # AndryaLimaRezende-PublicRemoteRepo1
-Lab01 - FSD - Intentionally create a conflict
+Lab01 - FSD - Intentionally create a conflict - STEP 6 - GITHUB ONLY
